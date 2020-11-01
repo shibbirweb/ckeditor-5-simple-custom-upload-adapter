@@ -1,0 +1,33 @@
+{
+  "name": "ckeditor-5-simple-custom-upload-adapter",
+  "version": "1.0.0",
+  "keywords": [
+    "ckeditor 5",
+    "custom adapter",
+    "file upload",
+    "image",
+    "upload",
+    "adapter"
+  ],
+  "author": "MD. Shibbir Ahmed <shibbirweb@gmail.com> (http://shibbir.me/)",
+  "bugs": {
+    "url": "https://github.com/shibbirweb/ckeditor-5-simple-custom-upload-adapter/issues",
+    "email": "shibbirweb@gmail.com"
+  },
+  "homepage": "https://github.com/shibbirweb/ckeditor-5-simple-custom-upload-adapter#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shibbirweb/ckeditor-5-simple-custom-upload-adapter"
+  },
+  "files": [
+    "src"
+  ],
+  "main": "src/UploadAdapterPlugin.js",
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "*",
+    "@ckeditor/ckeditor5-upload": "*"
+  },
+  "devDependencies": {
+    "axios": "^0.21.0"
+  }
+}
