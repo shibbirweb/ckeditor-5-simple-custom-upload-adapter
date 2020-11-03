@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/ckeditor-5-simple-custom-upload-adapter.svg)](https://www.npmjs.com/package/ckeditor-5-simple-custom-upload-adapter) [![Downloads](https://img.shields.io/npm/dt/ckeditor-5-simple-custom-upload-adapter.svg)](https://www.npmjs.com/package/ckeditor-5-simple-custom-upload-adapter)
+
 # CKEditor 5 - Simple Custom Upload Adapter
 Simplify custom upload adapter for CKEditor. Inspired from: [ckeditor5-upload-adapter](https://github.com/RasmusRummel/ckeditor5-upload-adapter)
 
